@@ -45,15 +45,29 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 <br/>
 
 <details>
-  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i></summary>
-
-  Below you will find completed courses and ongoing courses:
-
+<summary><h3>🎓 Courses & Certificates:</h3><i> (Click here)</i><br/>   <i>In this section, you can find some of my ongoing or recently completed courses. 📚 <br/> (You can find all the courses I've taken on my LinkedIn)</i>
+</summary>
+ <br/>
+  
 [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **Computer Science** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • December 2026\
 Languages ​​& Technologies: `Python`, `Java`, `C++`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://media.licdn.com/dms/image/v2/D4D0BAQH608Owt189RA/company-logo_200_200/company-logo_200_200/0/1722339125800/onebitcode_logo?e=1735776000&v=beta&t=oA9q_dmCiLufFgeTlF0wLYHaJ0GnXn_8FG_2IewYLH0"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+
+**Full Stack JavaScript** \
+[**OneBitCode**](https://onebitcode.com) • In Progress\
+Languages ​​& Technologies: `HTML`, `CSS`, `Javascript`, `ReactJS`, `NodeJS`, `SQL`, `TypeScript`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://media.licdn.com/dms/image/v2/C560BAQFU-ZKLLdANXg/company-logo_200_200/company-logo_200_200/0/1630657784564/rocketseat_logo?e=1735776000&v=beta&t=AIO54iI6D9zZH0Rqj55-6I2ylKxmlAcmcUZWebOcf2Y"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+
+**Rocketseat One** \
+[**Rocketseat**](https://www.rocketseat.com.br) • In Progress\
+Languages ​​& Technologies: `Java`, `Python`, `PHP`, `DevOps`, `React Native`, `C#`\
 <br/>
 
 </details>
@@ -61,9 +75,13 @@ Languages ​​& Technologies: `Python`, `Java`, `C++`\
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
 
-### Contact me 📩
-Feel free to get in touch via LinkedIn or email!
+<h3 align="left">Contact me 📩</h3>
 
-  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/tonyzinh)](https://github.com/tonyzinh)
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/entonyjoviino/)](https://www.linkedin.com/in/entonyjoviino/)
-  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:entonysantos@outlook.com)](mailto:entonysantos@outlook.com)
+<i>Feel free to get in touch via LinkedIn or email! </i>
+<br/>
+
+<div align="left"> 
+<a href = "mailto:entonysantos@outlook.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/entonyjoviino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+ </div>
+<br/>
