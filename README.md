@@ -32,7 +32,7 @@ student of the third period of Computer Science at FAESA University, my technolo
 
 Below you will find my most recent work experiences:
 
-[<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1730937600&v=beta&t=qbJALh0W5BSMTDMZtCiguG-OYyyn-QZkj-_6xkWcICM"/>](https://fixsi.com.br/)
+[<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/v2/C4E0BAQEX7IVsorb2qw/company-logo_200_200/company-logo_200_200/0/1630630812902?e=1741219200&v=beta&t=cZMQmoD47wM47KrfQItisktX6bigsTzxesoHiZ0Kr-8"/>](https://fixsi.com.br/)
 
 **IT Internship** \
 [**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Março 2024\
