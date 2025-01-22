@@ -26,14 +26,14 @@ Below you will find my most recent work experiences:
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/v2/C4E0BAQEX7IVsorb2qw/company-logo_200_200/company-logo_200_200/0/1630630812902?e=1741219200&v=beta&t=cZMQmoD47wM47KrfQItisktX6bigsTzxesoHiZ0Kr-8"/>](https://fixsi.com.br/)
 
 **IT Internship** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Fevereiro 2024 - Janeiro 2025  \
+[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Fev 2024 - Jan 2025  \
 Languages ​​& Technologies: `Python`,`Power Automate`\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Design Internship** \
-[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
+[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Out 2021 - Jun 2022  \
 Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
