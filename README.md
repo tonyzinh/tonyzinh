@@ -1,7 +1,7 @@
-### Hello! I'm Entony Jovino ✌
+### Hello! I'm Entony Jovino
 
 <p align="left"> 
-student of the third period of Computer Science at FAESA University, my technological journey was driven by a deep curiosity about websites and applications. This led me to discover my passion for programming. I am currently focused on robot automation using Python, looking for challenges to apply my skills and create innovative solutions along with the ability to develop scripts and programs to automate tasks.
+currently in the 5th period of Computer Science at FAESA, with a genuine passion for technology and design. Since the beginning of my journey, I have always been motivated by curiosity to understand how websites and applications work, which led me to develop technical skills and constantly seek solutions that make a difference.
 </p>
 
 ### Programming Languages
