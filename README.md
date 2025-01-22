@@ -13,15 +13,6 @@ currently in the 5th period of Computer Science at FAESA, with a genuine passion
   <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
 </p>
 
-### Tools Used 🛠
-<p align="left">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AfterEffects.svg" />
-</p>
-
 ### I'm studying languages 📚
 <p align="left">
     <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
@@ -35,7 +26,7 @@ Below you will find my most recent work experiences:
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/v2/C4E0BAQEX7IVsorb2qw/company-logo_200_200/company-logo_200_200/0/1630630812902?e=1741219200&v=beta&t=cZMQmoD47wM47KrfQItisktX6bigsTzxesoHiZ0Kr-8"/>](https://fixsi.com.br/)
 
 **IT Internship** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Março 2024\
+[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Fevereiro 2024 - Janeiro 2025  \
 Languages ​​& Technologies: `Python`,`Power Automate`\
 <br/>
 
