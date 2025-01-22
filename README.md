@@ -49,20 +49,6 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 Languages ​​& Technologies: `Python`, `Java`, `C++`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://media.licdn.com/dms/image/v2/D4D0BAQH608Owt189RA/company-logo_200_200/company-logo_200_200/0/1722339125800/onebitcode_logo?e=1735776000&v=beta&t=oA9q_dmCiLufFgeTlF0wLYHaJ0GnXn_8FG_2IewYLH0"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-
-**Full Stack JavaScript** \
-[**OneBitCode**](https://onebitcode.com) • In Progress\
-Languages ​​& Technologies: `HTML`, `CSS`, `Javascript`, `ReactJS`, `NodeJS`, `SQL`, `TypeScript`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://media.licdn.com/dms/image/v2/C560BAQFU-ZKLLdANXg/company-logo_200_200/company-logo_200_200/0/1630657784564/rocketseat_logo?e=1735776000&v=beta&t=AIO54iI6D9zZH0Rqj55-6I2ylKxmlAcmcUZWebOcf2Y"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-
-**Rocketseat One** \
-[**Rocketseat**](https://www.rocketseat.com.br) • In Progress\
-Languages ​​& Technologies: `Java`, `Python`, `PHP`, `DevOps`, `React Native`, `C#`\
-<br/>
-
 </details>
 
 ### GitHub Stats
