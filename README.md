@@ -18,7 +18,6 @@ currently in the 5th period of Computer Science at FAESA, with a genuine passion
     <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
     <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
 </p>
-
 <details>
 <summary><h3>🎓 Courses & Certificates:</h3><i> (Click here)</i><br/>   <i>In this section, you can find some of my ongoing or recently completed courses. 📚 <br/> (You can find all the courses I've taken on my LinkedIn)</i>
 </summary>
