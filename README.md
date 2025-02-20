@@ -19,24 +19,6 @@ currently in the 5th period of Computer Science at FAESA, with a genuine passion
     <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
 </p>
 
-### Work Experiences 💼
-
-Below you will find my most recent work experiences:
-
-[<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/v2/C4E0BAQEX7IVsorb2qw/company-logo_200_200/company-logo_200_200/0/1630630812902?e=1741219200&v=beta&t=cZMQmoD47wM47KrfQItisktX6bigsTzxesoHiZ0Kr-8"/>](https://fixsi.com.br/)
-
-**IT Internship** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Fev 2024 - Jan 2025  \
-Languages ​​& Technologies: `Python`,`Power Automate`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
-
-**Design Internship** \
-[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Out 2021 - Jun 2022  \
-Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
-<br/>
-
 <details>
 <summary><h3>🎓 Courses & Certificates:</h3><i> (Click here)</i><br/>   <i>In this section, you can find some of my ongoing or recently completed courses. 📚 <br/> (You can find all the courses I've taken on my LinkedIn)</i>
 </summary>
